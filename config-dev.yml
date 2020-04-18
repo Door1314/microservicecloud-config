@@ -1,0 +1,3 @@
+spring:
+    appliaction:
+        name: dev
